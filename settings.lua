@@ -17,7 +17,7 @@ data:extend({
       type = "bool-setting",
       name = "graftorio2-server-save",
       setting_type = "startup",
-      default_value = false,
+      default_value = true,
       allow_blank = false
   }
 })
