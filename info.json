@@ -1,6 +1,6 @@
 {
   "name": "graftorio2-hs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "graftorio2-hs",
   "author": "ngraham",
   "description": "visualize metrics from your factorio game in grafana",
