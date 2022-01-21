@@ -4,7 +4,9 @@
 
 # [graftorio2](https://mods.factorio.com/mod/graftorio2)
 
-**Fork of [graftorio](https://github.com/afex/graftorio)**
+**Fork of [graftorio](https://github.com/remijouannet/graftorio2)**
+## What the fork?
+The default setting in Graftorio2 for where to store the game.prom file is on the client. This default has been changed to be stored on the server only.
 
 [中文文档](./README_cn.md)
 
